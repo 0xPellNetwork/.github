@@ -1,2 +1,0 @@
-# .github
-Pell readme
